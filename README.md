@@ -38,6 +38,7 @@ To collect command completions for all command
 ```bash
 fish_update_completions
 ```
+tyuy
 
 ## Configure Web
 You can configure your shell by launching the web interface, run:
