@@ -71,19 +71,19 @@ fish
 
 ### Setup
 
-## Theme
+#### Theme
 ```bash
 omf install bobthefish
 ```
 
-### Autocomplete
+#### Autocomplete
 To collect command completions for all command
 
 ```bash
 fish_update_completions
 ```
 
-### Configure Web
+#### Configure Web
 You can configure your shell by launching the web interface, run:
 ```bash
 fish_config
